@@ -43,20 +43,22 @@ To use the code examples in this repository, please download and install the IDE
 
 # Code Example List
 
-## Getting Started - make each of these link to the correct repository
-#### CE221773 - PSoC 6 MCU - Hello World Example
-#### CE220263 - PSoC 6 MCU GPIO Pins Example
+We've grouped the code examples by area of interest. You may find the same code example in more than one category.
+
+### Getting Started
+#### [CE223541 Hello World PSoC6](https://github.com/JimTrudeau/CE223541-HelloWorld-PSoC6)
+#### CE221773 - PSoC 6 MCU - Hello World Example)
 #### CE216795 - PSoC 6 MCU Dual-Core Basics
 
-## Analog Examples
+### Analog Examples
 
-## BLE Connectivity Examples
+### BLE Connectivity Examples
 
-## Audio Examples
+### Audio Examples
 
-## Pioneer Kit Examples
+### Pioneer Kit Examples
 
-## RTOS Examples
+### RTOS Examples
 
 # Technical Resources
 
