@@ -1,12 +1,13 @@
 # Cypress-PSoC-6-MCU-Code-Examples
 
-T## Table of Contents
+# Table of Contents
 
 * [Introduction](#introduction)
 * [Navigating the Repository](#navigating-the-repository)
 * [Required Tools](#required-tools)
+* [Kits](#kits)
 * [Code Examples List](#code-examples-list)
-* [References](#references)
+* [Technical Resources](#technical-resources)
 
 # Introduction
 In general, each code example is in a separate repository. This makes it easy for you to get just what you need. Occasionally two or more examples work with each other. For example, perhaps a SPI Master and SPI Slave. You'll find closely related examples that work with each other in a single repository.
@@ -38,7 +39,7 @@ You can use these block level examples to guide you through the development of a
 To use the code examples in this repository, please download and install
 [PSoC Creator](http://www.cypress.com/products/psoc-creator)
 
-## Hardware
+# Kits
 ### PSoC 6 MCU Development Kits
 * [CY8CKIT-062-BLE PSoC 6 BLE Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-ble-pioneer-kit).
 
@@ -46,7 +47,7 @@ To use the code examples in this repository, please download and install
 
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
-## Code Example List
+# Code Example List
 #### 1. CE221773 - PSoC 6 MCU - Hello World Example
 This code example demonstrates the implementation of simple UART communication and LED control using PSoC 6 MCU. The UART and LED control tasks are executed by the Arm Cortex-M4 CPU of PSoC 6 MCU.
 #### 2. CE220263 - PSoC 6 MCU GPIO Pins Example
