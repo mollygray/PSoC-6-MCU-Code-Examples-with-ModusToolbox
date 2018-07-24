@@ -29,9 +29,11 @@ Please refer to the code example documentation for selecting the appropriate dev
 
 ## Software
 ### Integrated Development Environment (IDE)
-To use the code examples in this repository, please download and install.
-[PSoC Creator](http://www.cypress.com/products/psoc-creator)
-[ModusToolbox](http://www.cypress.com/products/modustoolbox-integrated-design-environment-ide)
+To use the code examples in this repository, please download and install the IDE required by the example.
+
+* [PSoC Creator](http://www.cypress.com/products/psoc-creator)
+
+* [ModusToolbox](http://www.cypress.com/products/modustoolbox-integrated-design-environment-ide)
 
 # Kits
 ### PSoC 6 MCU Development Kits
@@ -40,15 +42,21 @@ To use the code examples in this repository, please download and install.
 * [CY8CKIT-062 PSoC 6 WiFi-BT Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-wifi-bt-pioneer-kit). 
 
 # Code Example List
-#### 1. CE221773 - PSoC 6 MCU - Hello World Example
-This code example demonstrates the implementation of simple UART communication and LED control using PSoC 6 MCU. The UART and LED control tasks are executed by the Arm Cortex-M4 CPU of PSoC 6 MCU.
-#### 2. CE220263 - PSoC 6 MCU GPIO Pins Example
-This example demonstrates multiple methods of configuring, reading, writing, and generating interrupts with PSoC 6 General
-Purpose Input/Output (GPIO) pins. Both the PSoC Creator schematic Pins Component and PDL GPIO driver methods are
-shown.
-#### 3. CE216795 - PSoC 6 MCU Dual-Core Basics
-These examples demonstrate the two CPU cores in PSoC 6 MCU doing separate independent tasks, and communicating with
-each other using shared memory and the inter-processor communication (IPC) block.
+
+## Getting Started - make each of these link to the correct repository
+#### CE221773 - PSoC 6 MCU - Hello World Example
+#### CE220263 - PSoC 6 MCU GPIO Pins Example
+#### CE216795 - PSoC 6 MCU Dual-Core Basics
+
+## Analog Examples
+
+## BLE Connectivity Examples
+
+## Audio Examples
+
+## Pioneer Kit Examples
+
+## RTOS Examples
 
 # Technical Resources
 
