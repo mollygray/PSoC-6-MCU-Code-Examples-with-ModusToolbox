@@ -18,34 +18,26 @@ Feel free to explore the code example source files and let's innovate together!
 
 # Navigating the Repository
 
-The examples provided on this GitHub page helps you to get acquainted with PSoC 6 MCU and how to use PSoC Creator to develop a PSoC 6 MCU based design.
-For block level examples please refer to the following GitHub repositories:
+The examples provided on this GitHub page helps you to get acquainted with PSoC 6 MCU. As noted, for the most part each code example is in its own repository. Use the [Code Example List](#code-example-list) below to find what you're looking for. Or, use GitHub's search capabilities to search this site.
 
-#### 1. [Analog Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Analog-Designs)
-#### 2. [Digital Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Digital-Designs)
-#### 3. [BLE Connectivity Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-BLE-Connectivity-Designs)
-#### 4. [Audio Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Audio-Designs)
-#### 5. [Device Related Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Device-Related-Design)
-#### 6. [System-Level Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-System-Level-Designs)
-#### 7. [PSoC 6 Pioneer Kit Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-Pioneer-Kits)
-#### 8. [PSoC 6 MCU based RTOS Designs](https://github.com/cypresssemiconductorco/PSoC-6-MCU-RTOS-Based-Design)
+Put a picture in here. :)
 
-You can use these block level examples to guide you through the development of a system-level design using PSoC 6 MCU. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are in the Code Example folder in the repository.
+All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it.
 
 # Required Tools
+Please refer to the code example documentation for selecting the appropriate development environment and kit for building and running the code example.
 
 ## Software
 ### Integrated Development Environment (IDE)
-To use the code examples in this repository, please download and install
+To use the code examples in this repository, please download and install.
 [PSoC Creator](http://www.cypress.com/products/psoc-creator)
+[ModusToolbox](http://www.cypress.com/products/modustoolbox-integrated-design-environment-ide)
 
 # Kits
 ### PSoC 6 MCU Development Kits
 * [CY8CKIT-062-BLE PSoC 6 BLE Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-ble-pioneer-kit).
 
 * [CY8CKIT-062 PSoC 6 WiFi-BT Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-wifi-bt-pioneer-kit). 
-
-**Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
 # Code Example List
 #### 1. CE221773 - PSoC 6 MCU - Hello World Example
