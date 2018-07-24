@@ -6,7 +6,7 @@
 * [Navigating the Repository](#navigating-the-repository)
 * [Required Tools](#required-tools)
 * [Kits](#kits)
-* [Code Examples List](#code-examples-list)
+* [Code Example List](#code-example-list)
 * [Technical Resources](#technical-resources)
 
 # Introduction
@@ -64,13 +64,13 @@ Cypress provides a wealth of data at [www.cypress.com](http://www.cypress.com/) 
 
 For a comprehensive list of PSoC 6 MCU resources, see [KBA223067](https://community.cypress.com/docs/DOC-14644) in the Cypress community.
 
-##### PSoC 6 MCU Datasheets
+#### PSoC 6 MCU Datasheets
 Device datasheets list the features and electrical specifications of PSoC 6 families of devices: [PSoC 6 MCU Datasheets](http://www.cypress.com/search/all?f%5B0%5D=meta_type%3Atechnical_documents&f%5B1%5D=resource_meta_type%3A575&f%5B2%5D=field_related_products%3A114026)
-##### PSoC 6 MCU Application Notes
+#### PSoC 6 MCU Application Notes
 Application notes are available on the Cypress website to assist you with designing your PSoC application: [A list of PSoC 6 MCU ANs](http://www.cypress.com/psoc6an)
-##### PSoC 6 MCU Component Datasheets
+#### PSoC 6 MCU Component Datasheets
 PSoC Creator utilizes "components" as interfaces to functional Hardware (HW). Each component in PSoC Creator has an associated datasheet that describes the functionality, APIs, and electrical specifications for the HW. You can access component datasheets in PSoC Creator by right-clicking a component on the schematic page or by going through the component library listing. You can also access component datasheets from the Cypress website: [PSoC 6 Component Datasheets](http://www.cypress.com/documentation/component-datasheets)
-##### PSoC 6 MCU Technical Reference Manuals (TRM)
+#### PSoC 6 MCU Technical Reference Manuals (TRM)
 The TRM provides detailed descriptions of the internal architecture of PSoC 6 devices:[PSoC 6 MCU TRMs](http://www.cypress.com/psoc6trm)
 
 ### Cypress Developer Community ##
@@ -78,7 +78,6 @@ The TRM provides detailed descriptions of the internal architecture of PSoC 6 de
 Need support for your design and development questions? Check out the [PSoC 6 forum](https://community.cypress.com/community/psoc-6) on the [Cypress Developer Community 3.0](https://community.cypress.com/welcome). Interact with technical experts in the embedded design community and receive answers verified by Cypress' very best applications engineers. You'll also have access to robust technical documentation, active conversation threads, and rich multimedia content.
 
 [Community Forums](https://community.cypress.com/welcome) | [Videos](http://www.cypress.com/video-library) | [Blogs](http://www.cypress.com/blog) | [Training](http://www.cypress.com/training) | [Components](http://www.cypress.com/cdc/community-components)
-
 
 ### Technical Support
 
