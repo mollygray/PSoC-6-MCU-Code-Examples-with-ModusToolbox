@@ -81,7 +81,7 @@ Need support for your design and development questions? Check out the [PSoC 6 fo
 
 [Community Forums](https://community.cypress.com/welcome) | [Videos](http://www.cypress.com/video-library) | [Blogs](http://www.cypress.com/blog) | [Training](http://www.cypress.com/training) | [Components](http://www.cypress.com/cdc/community-components)
 
-### Technical Support
+### Technical Support 
 
 You can also use the following support resources if you need quick assistance:
 ##### Self-help: [Technical Support](http://www.cypress.com/support)
