@@ -11,8 +11,8 @@
   * [RTOS Examples](#rtos-examples): demonstrate how to integrate an RTOS
   * [Audio Examples](#audio-examples): reference projects using peripherals such as I2S and PDM-to-PCM
   * [Kit Examples](#kit-examples): more complex examples that demonstrate features of a particular kit
-  * [System Examples](#system-examples): asdf
-* [ModusToolbox IDE](#modustoolbox-ide): combine peripherals to implement a more realistic scenario
+  * [System Examples](#system-examples): combine peripherals to implement a more realistic scenario
+* [ModusToolbox IDE](#modustoolbox-ide)
 * [Kits](#kits)
 * [Technical Resources](#technical-resources)
 
