@@ -23,8 +23,8 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 
 # Getting Started Examples
 #### [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)
-#### [CE543210 HelloWorld2(https://github.com/JimTrudeau/CE543210-HelloWorld2)
-#### CE123456-CapSense Slider(https://github.com/JimTrudeau/CE123456-CapSenseSlider)
+#### [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)
+#### [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider)
 
 # Analog Examples
 
