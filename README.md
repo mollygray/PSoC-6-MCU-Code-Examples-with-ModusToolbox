@@ -12,7 +12,7 @@
   * [Kit Examples](#kit-examples): more complex examples that demonstrate features of a particular kit
   * [System Examples](#system-examples): combine peripherals to implement a more realistic scenario
 * [ModusToolbox IDE](#modustoolbox-ide)
-* [Kits](#kits)
+* [Kits](#kits) 
 * [Technical Resources](#technical-resources)
 
 # Code Examples 
