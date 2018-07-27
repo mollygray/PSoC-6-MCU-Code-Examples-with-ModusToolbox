@@ -1,64 +1,51 @@
-# PSoC-6-MCU-Code-Examples
+# PSoC 6 MCU Code Examples with ModusToolbox IDE
 
 # Table of Contents
 
 * [Introduction](#introduction)
-* [Navigating the Repository](#navigating-the-repository)
-* [Required Tools](#required-tools)
+* [Getting Started Examples](#getting-started-examples)
+* [Analog Examples](#analog-examples)
+* [BLE Examples](#ble-examples)
+* [Audio Examples](#audio-examples)
+* [RTOS Examples](#rtos-examples)
+* [IP Block Examples](IP-block-examples)
+* [ModusToolbox Software](#modustoolbox-software)
 * [Kits](#kits)
-* [Code Example List](#code-example-list)
 * [Technical Resources](#technical-resources)
 
 # Introduction
-In general, each code example is in a separate repository. This makes it easy for you to get just what you need. Occasionally two or more examples work with each other. For example, perhaps a SPI Master and SPI Slave. You'll find closely related examples that work with each other in a single repository.
 
-This ReadMe describes the available code examples for PSoC 6 MCU, a single chip solution for the emerging IoT devices. PSoC 6 MCU bridges the gap between expensive, power hungry application processors and low‑performance microcontrollers (MCUs). The ultra‑low‑power, dual-core architecture of PSoC 6 MCU offers the processing performance needed by IoT devices, eliminating the tradeoffs between power and performance.
+Cypress provides a rich set of code examples for the PSoC 6 MCU, using the ModusToolbox IDE. PSoC 6 MCU bridges the gap between expensive, power hungry application processors and low‑performance microcontrollers (MCUs). The ultra‑low‑power, dual-core architecture of PSoC 6 MCU offers the processing performance needed by IoT devices, eliminating the tradeoffs between power and performance.
 
-Feel free to explore the code example source files and let's innovate together!
+Code examples are grouped by category. The same code example may appear in more than one category. All the code examples come with well documented design guidelines to help you understand the design and how to develop it. Feel free to explore the code example source files and let's innovate together! 
 
-# Navigating the Repository
+This ReadMe also includes information about ModusToolbox software, links to avaliable kits, and programming resources for PSoC 6 MCU. See each code example to learn what kits are supported by the example.
 
-The examples provided on this GitHub page helps you to get acquainted with PSoC 6 MCU. As noted, for the most part each code example is in its own repository. Use the [Code Example List](#code-example-list) below to find what you're looking for. Or, use GitHub's search capabilities to search this site.
+# Getting Started Examples
+#### [CE223541 Hello World PSoC6](https://github.com/JimTrudeau/CE223541-HelloWorld-PSoC6)
+#### CE221773 - PSoC 6 MCU Hello World Example)
+#### CE216795 - PSoC 6 MCU Dual-Core Basics
 
-Put a picture in here. :)
+# Analog Examples
 
-All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it.
+# BLE Examples
 
-# Required Tools
-Please refer to the code example documentation for selecting the appropriate development environment and kit for building and running the code example.
+# Audio Examples
 
-## Software
-### Integrated Development Environment (IDE)
-To use the code examples in this repository, please download and install the IDE required by the example.
+# RTOS Examples
 
-* [PSoC Creator](http://www.cypress.com/products/psoc-creator)
+
+
+# ModusToolbox Software
+
+And put the short marketing blurb here.
 
 * [ModusToolbox](http://www.cypress.com/products/modustoolbox-integrated-design-environment-ide)
 
 # Kits
-### PSoC 6 MCU Development Kits
 * [CY8CKIT-062-BLE PSoC 6 BLE Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-ble-pioneer-kit).
 
 * [CY8CKIT-062 PSoC 6 WiFi-BT Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-wifi-bt-pioneer-kit). 
-
-# Code Example List
-
-We've grouped the code examples by area of interest. You may find the same code example in more than one category.
-
-### Getting Started
-#### [CE223541 Hello World PSoC6](https://github.com/JimTrudeau/CE223541-HelloWorld-PSoC6)
-#### CE221773 - PSoC 6 MCU - Hello World Example)
-#### CE216795 - PSoC 6 MCU Dual-Core Basics
-
-### Analog Examples
-
-### BLE Connectivity Examples
-
-### Audio Examples
-
-### Pioneer Kit Examples
-
-### RTOS Examples
 
 # Technical Resources
 
