@@ -36,6 +36,13 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 ## Analog Examples 
 
 ## BLE Examples
+| Code Example | Supported Kits | Notes |
+| ----- | ----- | -----
+| [CE212736-PSoC6BLE-FindMe](https://github.com/JimTrudeau/CE212736-PSoC6BLE-FindMe) | PSoC 6 BLE Kit | Lorem ipsum and so on |
+| [CE212741-IPSP-Router-Node](https://github.com/JimTrudeau/CE212741-IPSP-Router-Node) | PSoC 6 BLE Kit | Lorem ipsum and so on |
+| [CE215118-BLE-MultiMaster-SingleSlave](https://github.com/JimTrudeau/CE215118-BLE-MultiMaster-SingleSlave) | PSoC 6 BLE Kit | Lorem ipsum and so on |
+| [CE215121-BLE-HID-Keyboard](https://github.com/JimTrudeau/CE215121-BLE-HID-Keyboard) | PSoC 6 BLE Kit | Lorem ipsum and so on |
+| [CE215123-BLE-Navigation](https://github.com/JimTrudeau/CE215123-BLE-Navigation) | PSoC 6 BLE Kit | Lorem ipsum and so on |
 
 ## RTOS Examples
 
