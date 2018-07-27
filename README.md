@@ -15,7 +15,7 @@
 * [Kits](#kits)
 * [Technical Resources](#technical-resources)
 
-# Code Examples
+# Code Examples 
 
 Cypress provides a rich set of code examples for the PSoC 6 MCU, using the ModusToolbox IDE. PSoC 6 MCU bridges the gap between expensive, power hungry application processors and low‑performance microcontrollers (MCUs). The ultra‑low‑power, dual-core architecture of PSoC 6 MCU offers the processing performance needed by IoT devices, eliminating the tradeoffs between power and performance.
 
