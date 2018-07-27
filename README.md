@@ -22,9 +22,9 @@ Code examples are grouped by category. The same code example may appear in more 
 This ReadMe also includes information about ModusToolbox software, links to avaliable kits, and programming resources for PSoC 6 MCU. See each code example to learn what kits are supported by the example.
 
 # Getting Started Examples
-#### [CE223541 Hello World PSoC6](https://github.com/JimTrudeau/CE223541-HelloWorld-PSoC6)
-#### CE221773 - PSoC 6 MCU Hello World Example)
-#### CE216795 - PSoC 6 MCU Dual-Core Basics
+#### [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)
+#### [CE543210 HelloWorld2(https://github.com/JimTrudeau/CE543210-HelloWorld2)
+#### CE123456-CapSense Slider(https://github.com/JimTrudeau/CE123456-CapSenseSlider)
 
 # Analog Examples
 
