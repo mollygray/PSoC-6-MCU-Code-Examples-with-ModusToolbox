@@ -1,4 +1,4 @@
-# Cypress-PSoC-6-MCU-Code-Examples
+# PSoC-6-MCU-Code-Examples
 
 # Table of Contents
 
