@@ -25,19 +25,26 @@ Code examples are grouped by category. The same code example may appear in more 
 This ReadMe also includes information about ModusToolbox software, links to avaliable kits, and programming resources for PSoC 6 MCU. See each code example to learn what kits are supported by the example.
 
 # Getting Started Examples
-#### [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)
-#### [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)
-#### [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider)
+
+| Code Example | Supported Kits | Notes |
+| ----- | ----- | -----
+| [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)| PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | Uses an LED and a UART |
+| [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum
+| [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
+
+# IP Block Examples
 
 # Analog Examples 
 
 # BLE Examples
 
-# Audio Examples
-
 # RTOS Examples
 
+# Audio Examples
 
+# Kit Examples
+
+# System Examples
 
 # ModusToolbox IDE
 ![](/images/MTbanner.png)
