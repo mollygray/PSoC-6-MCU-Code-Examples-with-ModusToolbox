@@ -2,10 +2,9 @@
 
 # Table of Contents
 
-* [Introduction](#introduction)
-* Examples
+* [Code Examples](#Code-examples)
   * [Getting Started Examples](#getting-started-examples): basic examples that introduce the platform
-  * [IP Block Examples](IP-block-examples): focus on a particular peripheral, such as UART, I2C, RTC, DMA, Interrupts, and so forth
+  * [IP Block Examples](#ip-block-examples): focus on a particular peripheral, such as UART, I2C, RTC, DMA, Interrupts, and so forth
   * [Analog Examples](#analog-examples): focus on analog peripherals like ADC, DAC, and comparators
   * [BLE Examples](#ble-examples): demonstrate Bluetooth Low Energy connectivity
   * [RTOS Examples](#rtos-examples): demonstrate how to integrate an RTOS
@@ -16,7 +15,7 @@
 * [Kits](#kits)
 * [Technical Resources](#technical-resources)
 
-# Introduction
+# Code Examples
 
 Cypress provides a rich set of code examples for the PSoC 6 MCU, using the ModusToolbox IDE. PSoC 6 MCU bridges the gap between expensive, power hungry application processors and low‑performance microcontrollers (MCUs). The ultra‑low‑power, dual-core architecture of PSoC 6 MCU offers the processing performance needed by IoT devices, eliminating the tradeoffs between power and performance.
 
@@ -24,7 +23,7 @@ Code examples are grouped by category. The same code example may appear in more 
 
 This ReadMe also includes information about ModusToolbox software, links to avaliable kits, and programming resources for PSoC 6 MCU. See each code example to learn what kits are supported by the example.
 
-# Getting Started Examples
+## Getting Started Examples
 
 | Code Example | Supported Kits | Notes |
 | ----- | ----- | -----
@@ -32,19 +31,19 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 | [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum
 | [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
 
-# IP Block Examples
+## IP Block Examples
 
-# Analog Examples 
+## Analog Examples 
 
-# BLE Examples
+## BLE Examples
 
-# RTOS Examples
+## RTOS Examples
 
-# Audio Examples
+## Audio Examples
 
-# Kit Examples
+## Kit Examples
 
-# System Examples
+## System Examples
 
 # ModusToolbox IDE
 ![](/images/MTbanner.png)
