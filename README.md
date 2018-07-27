@@ -37,6 +37,7 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 
 
 # ModusToolbox Software
+![](/images/MTbanner.png)
 
 ModusToolbox™ IDE for IoT designers provides a single, coherent, and familiar design experience combining the industry’s most deployed WiFi and Bluetooth technologies, and the lowest power, most flexible MCUs with best-in-class sensing.
 
