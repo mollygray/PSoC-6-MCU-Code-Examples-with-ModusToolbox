@@ -3,13 +3,16 @@
 # Table of Contents
 
 * [Introduction](#introduction)
-* [Getting Started Examples](#getting-started-examples)
-* [Analog Examples](#analog-examples)
-* [BLE Examples](#ble-examples)
-* [Audio Examples](#audio-examples)
-* [RTOS Examples](#rtos-examples)
-* [IP Block Examples](IP-block-examples)
-* [ModusToolbox IDE](#modustoolbox-ide)
+* Examples
+  * [Getting Started Examples](#getting-started-examples): basic examples that introduce the platform
+  * [IP Block Examples](IP-block-examples): focus on a particular peripheral, such as UART, I2C, RTC, DMA, Interrupts, and so forth
+  * [Analog Examples](#analog-examples): focus on analog peripherals like ADC, DAC, and comparators
+  * [BLE Examples](#ble-examples): demonstrate Bluetooth Low Energy connectivity
+  * [RTOS Examples](#rtos-examples): demonstrate how to integrate an RTOS
+  * [Audio Examples](#audio-examples): reference projects using peripherals such as I2S and PDM-to-PCM
+  * [Kit Examples](#kit-examples): more complex examples that demonstrate features of a particular kit
+  * [System Examples](#system-examples): asdf
+* [ModusToolbox IDE](#modustoolbox-ide): combine peripherals to implement a more realistic scenario
 * [Kits](#kits)
 * [Technical Resources](#technical-resources)
 
