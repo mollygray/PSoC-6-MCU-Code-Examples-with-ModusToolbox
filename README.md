@@ -38,7 +38,7 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 
 # ModusToolbox Software
 
-And put the short marketing blurb here.
+ModusToolbox™ IDE for IoT designers provides a single, coherent, and familiar design experience combining the industry’s most deployed WiFi and Bluetooth technologies, and the lowest power, most flexible MCUs with best-in-class sensing.
 
 * [ModusToolbox](http://www.cypress.com/products/modustoolbox-integrated-design-environment-ide)
 
