@@ -1,6 +1,6 @@
 # PSoC 6 MCU Code Examples with ModusToolbox IDE
 
-# Table of Contents
+# Table of Contents 
 
 * [Code Examples](#Code-examples)
   * [Getting Started Examples](#getting-started-examples): basic examples that introduce the platform
