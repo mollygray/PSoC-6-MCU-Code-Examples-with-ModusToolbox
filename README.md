@@ -4,11 +4,10 @@
 
 * [Code Examples](#Code-examples)
   * [Getting Started Examples](#getting-started-examples): basic examples that introduce the platform
-  * [IP Block Examples](#ip-block-examples): focus on a particular peripheral, such as UART, I2C, RTC, DMA, Interrupts, and so forth
   * [Analog Examples](#analog-examples): focus on analog peripherals like ADC, DAC, and comparators
+  * [Digital Examples](#digital-examples): focus on a non-analog peripheral, such as UART, I2C, RTC, DMA, Interrupts, and so forth
   * [BLE Examples](#ble-examples): demonstrate Bluetooth Low Energy connectivity
   * [RTOS Examples](#rtos-examples): demonstrate how to integrate an RTOS
-  * [Audio Examples](#audio-examples): reference projects using peripherals such as I2S and PDM-to-PCM
   * [Kit Examples](#kit-examples): more complex examples that demonstrate features of a particular kit
   * [System Examples](#system-examples): combine peripherals to implement a more realistic scenario
 * [ModusToolbox IDE](#modustoolbox-ide)
@@ -31,13 +30,13 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 | [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum |
 | [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
 
-## IP Block Examples
+## Analog Examples
 | Code Example | Supported Kits | Notes |
 | ----- | ----- | -----
 | [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)| PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | Uses an LED and a UART |
 | [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum
 | [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
-## Analog Examples 
+## Digital Examples 
 | Code Example | Supported Kits | Notes |
 | ----- | ----- | -----
 | [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)| PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | Uses an LED and a UART |
@@ -58,12 +57,7 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 | [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)| PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | Uses an LED and a UART |
 | [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum
 | [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
-## Audio Examples
-| Code Example | Supported Kits | Notes |
-| ----- | ----- | -----
-| [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)| PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | Uses an LED and a UART |
-| [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum
-| [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
+
 ## Kit Examples
 | Code Example | Supported Kits | Notes |
 | ----- | ----- | -----
