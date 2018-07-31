@@ -8,7 +8,6 @@
   * [Digital Examples](#digital-examples): focus on a non-analog peripheral, such as UART, I2C, RTC, DMA, Interrupts, and so forth
   * [BLE Examples](#ble-examples): demonstrate Bluetooth Low Energy connectivity
   * [RTOS Examples](#rtos-examples): demonstrate how to integrate an RTOS
-  * [Kit Examples](#kit-examples): more complex examples that demonstrate features of a particular kit
   * [System Examples](#system-examples): combine peripherals to implement a more realistic scenario
 * [ModusToolbox IDE](#modustoolbox-ide)
 * [Kits](#kits) 
@@ -76,11 +75,6 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 ModusToolbox™ IDE for IoT designers provides a single, coherent, and familiar design experience combining the industry’s most deployed WiFi and Bluetooth technologies, and the lowest power, most flexible MCUs with best-in-class sensing.
 
 * [ModusToolbox](http://www.cypress.com/products/modustoolbox-integrated-design-environment-ide)
-
-# Kits
-* [CY8CKIT-062-BLE PSoC 6 BLE Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-ble-pioneer-kit).
-
-* [CY8CKIT-062 PSoC 6 WiFi-BT Pioneer Kit](http://www.cypress.com/documentation/development-kitsboards/psoc-6-wifi-bt-pioneer-kit). 
 
 # Technical Resources
 
