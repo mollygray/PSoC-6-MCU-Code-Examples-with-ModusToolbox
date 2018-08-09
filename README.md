@@ -27,6 +27,7 @@ This ReadMe also includes information about ModusToolbox software, links to aval
 | ----- | ----- | -----
 | [CE223541 HelloWorld](https://github.com/JimTrudeau/CE223541-HelloWorld)| PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | Uses an LED and a UART |
 | [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)  | PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum |
+| [CE543210 HelloWorld2](https://github.com/JimTrudeau/CE543210-HelloWorld2)   PSoC 6 BLE Kit, PSoC 6 WiFi-BT Kit | lorem ipsum 
 | [CE123456-CapSense Slider](https://github.com/JimTrudeau/CE123456-CapSenseSlider) | PSoC 6 WiFi-BT Kit  | Integrates CapSense middleware to control an LED |
 
 ## Analog Examples
